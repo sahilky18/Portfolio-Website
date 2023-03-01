@@ -1,0 +1,43 @@
+html, body
+{
+    height: 100%;
+    background-image: linear-gradient(  #000428, #004e92);
+}
+
+*
+{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+.upper
+{
+    height: 15%;
+    width: 100%;
+    text-align: center;
+    padding: 2%;
+    color: aliceblue;
+    background-color:rgb(3, 3, 39) ;
+    background-image: linear-gradient( to right, #000428, #004e92);
+}
+.down
+{
+   margin-top: 2%;
+   margin-left: 5%;
+    height: 80%;
+    width: 90%;
+    text-align: center;
+    color: aliceblue;
+    border: 2px solid whitesmoke;
+    overflow-x: scroll;
+}
+
+.image
+{
+    border: none;
+}
+
+pre{
+    text-align: justify;
+}
