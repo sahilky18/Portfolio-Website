@@ -12,8 +12,7 @@ a {
 .hero {
   width: 100%;
   height: 100vh;
-  background: url(/vk.png);
-  background-size: cover;
+ 
 }
 nav {
   display: flex;
